@@ -176,7 +176,7 @@ nav {
 
 /*Specialities Section*/
 .sepcialities-section {
-    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("_5c195ad9-9280-412a-812b-bcd9e07717a2.jpg");
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("3.jpg");
     background-size: cover;
     padding-top: 100px;
     padding-bottom: 100px;
@@ -240,7 +240,7 @@ nav {
     }
 
 .image2 {
-    background-image: url("_306eeb11-90ad-4fbf-827d-7a7fff03e8b6.jpg");
+    background-image: url("2.jpg");
     background-size: cover;
 }
 
